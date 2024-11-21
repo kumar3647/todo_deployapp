@@ -1,0 +1,5 @@
+.venv
+/files/weather.csv
+*.iml
+.idea/
+*.xml
